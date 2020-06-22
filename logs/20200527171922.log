@@ -1,0 +1,31 @@
+2020-05-27 17:19:22,051-BrowserEngine-INFO-You had select Chrome browser.
+2020-05-27 17:19:22,051-BrowserEngine-INFO-The test server url is: https://www.baidu.com
+2020-05-27 17:19:26,291-BrowserEngine-INFO-Starting Chrome browser.
+2020-05-27 17:19:28,678-BrowserEngine-INFO-Open url: https://www.baidu.com
+2020-05-27 17:19:29,824-BrowserEngine-INFO-Maximize the current window.
+2020-05-27 17:19:29,826-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2020-05-27 17:19:29,845-BasePage-INFO-The element looked up is //*[@href="http://news.baidu.com"] 
+2020-05-27 17:19:30,048-BasePage-INFO-The element ' ÐÂÎÅ ' was clicked.
+2020-05-27 17:19:32,533-BasePage-INFO-Had take screenshot and save to folder : /screenshots
+2020-05-27 17:19:35,020-BrowserEngine-INFO-You had select Chrome browser.
+2020-05-27 17:19:35,021-BrowserEngine-INFO-The test server url is: https://www.baidu.com
+2020-05-27 17:19:39,014-BrowserEngine-INFO-Starting Chrome browser.
+2020-05-27 17:19:40,923-BrowserEngine-INFO-Open url: https://www.baidu.com
+2020-05-27 17:19:42,075-BrowserEngine-INFO-Maximize the current window.
+2020-05-27 17:19:42,076-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2020-05-27 17:19:42,092-BasePage-INFO-The element looked up is kw 
+2020-05-27 17:19:42,121-BasePage-INFO-Clear text in input box before typing.
+2020-05-27 17:19:42,131-BasePage-INFO-The element looked up is kw 
+2020-05-27 17:19:42,303-BasePage-INFO-Had type ' ²Ô¾®¿Õ ' in inputBox
+2020-05-27 17:19:42,343-BasePage-INFO-The element looked up is //*[@id="su"] 
+2020-05-27 17:19:42,499-BasePage-INFO-The element '  ' was clicked.
+2020-05-27 17:19:44,917-BasePage-INFO-Had take screenshot and save to folder : /screenshots
+2020-05-27 17:19:44,928-BasePage-INFO-Current page title is ²Ô¾®¿Õ_°Ù¶ÈËÑË÷
+2020-05-27 17:19:44,946-BasePage-INFO-The element looked up is kw 
+2020-05-27 17:19:44,998-BasePage-INFO-Clear text in input box before typing.
+2020-05-27 17:19:45,048-BasePage-INFO-The element looked up is kw 
+2020-05-27 17:19:45,239-BasePage-INFO-Had type ' python ' in inputBox
+2020-05-27 17:19:45,250-BasePage-INFO-The element looked up is //*[@id="su"] 
+2020-05-27 17:19:45,338-BasePage-INFO-The element '  ' was clicked.
+2020-05-27 17:19:47,704-BasePage-INFO-Had take screenshot and save to folder : /screenshots
+2020-05-27 17:19:47,704-BrowserEngine-INFO-Now, Close and quit the browser.
